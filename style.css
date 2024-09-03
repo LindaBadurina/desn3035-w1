@@ -1,0 +1,19 @@
+/*Libraries, Tools and Workflow - Assignment 1*/ 
+
+body {
+    background-color: antiquewhite;
+    padding: 26px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    padding: 20px;
+    color: cadetblue;
+}
+
+p {
+    color: cadetblue;
+    padding-left: 20px;
+}
+
