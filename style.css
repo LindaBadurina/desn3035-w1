@@ -1,19 +1,29 @@
 /*Libraries, Tools and Workflow - Assignment 1*/ 
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(243, 241, 228);
     padding: 26px;
+    text-align: center;
 }
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
-    padding: 20px;
+    padding: 16px;
     color: cadetblue;
 }
 
 p {
-    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(155, 108, 137);
     padding-left: 20px;
+    font-size: 26px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 70px;
+  }
